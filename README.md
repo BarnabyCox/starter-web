@@ -15,3 +15,7 @@ Copy it
 ### Careful
 
 It can be hard
+
+### Copyright
+
+don't be bad
