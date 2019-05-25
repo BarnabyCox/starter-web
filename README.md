@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work. XX!
 
-XXX, but cause this is useful no?
+XXX, but cause this is useful no?  Here are some more changes from myfeature branch
 
 ## Purpose
 
