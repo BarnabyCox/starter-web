@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work. XX!
 
+XXX, but cause this is useful no?
+
 ## Purpose
 
 Sample website with plenty of files for demos.  MOre stuff.
